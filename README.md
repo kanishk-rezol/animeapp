@@ -37,9 +37,9 @@
 
 Thank you for taking the time to read through this project! 🙌 Your support and interest are truly appreciated.
 
-## 💬 Feedback and Contributions
+## 💬 Feedback 
 
-Feel free to open an issue if you have any feedback or suggestions. If you'd like to contribute, please take a look at the [contributing guidelines](CONTRIBUTING.md).
+Feel free to open an issue if you have any feedback or suggestions.
 
 ## ⭐ Support This Project
 
